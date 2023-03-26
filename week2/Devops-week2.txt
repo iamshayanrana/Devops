@@ -1,4 +1,4 @@
-##1:Extreme Programming Framework:
+## 1:Extreme Programming Framework:
 Extreme Programming also called XP. XP is a lightweight methodology for small to medium-sized teams developing software in the face of vague(unclear meaning) or rapidly changing requirements. Extreme programming is an agile software development framework that aims to produce higher-quality software and higher quality of life for the development team. We are still talking about methodology and as you can see we are still talking about the methodology so we are not just talking about going out and just starting to write software. These are principles and there we need to follow. XP is: i) lightweight: it does not overburden the developers. ii) Humanistic: it is centered on people, developers and customers. iii) Discipline: Practices that we need to follow. iv) Software Development: Key point. We have to follow the mentality of sufficiency: How would you program if you have all the time in the world? i) write tests ii) reconstruct often iii) talk with fellow programmers and with the customers.
 Values:
 The 5 values of XP are communication, courage, respect, simplicity and feedback.
