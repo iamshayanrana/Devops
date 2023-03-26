@@ -35,7 +35,7 @@ The primary benefit of an MVP is you can gain an understanding about your custom
 Potential Costs:
 Proper use of an MVP means that a team may dramatically change a product that they deliver to their customers or abandon the product together based on feedback they receive from their customers. The minimum aspect of MVP encourages teams to do the least amount of work possible to useful feedback (Eric Ries refers to this as validated learning) which helps them avoid working on a product that no one wants.
 
-## 6:TDD and BDD:
+# 6:TDD and BDD:
 
 Test-Driven Development (TDD) :
 Test Driven Development (TDD) is a development technique which focuses more on the implementation of a feature of a software application/product. Mainly it refers to writing a test case that fails because the specified functionality doesn't exist and after that updating the code that can make the test case pass and as a result, we get the feature implemented in the system. It is a development practice in which the developers are involved in it.
