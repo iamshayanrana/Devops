@@ -1,4 +1,4 @@
-## 1:Extreme Programming Framework:
+# 1:Extreme Programming Framework:
 Extreme Programming also called XP. XP is a lightweight methodology for small to medium-sized teams developing software in the face of vague(unclear meaning) or rapidly changing requirements. Extreme programming is an agile software development framework that aims to produce higher-quality software and higher quality of life for the development team. We are still talking about methodology and as you can see we are still talking about the methodology so we are not just talking about going out and just starting to write software. These are principles and there we need to follow. XP is: i) lightweight: it does not overburden the developers. ii) Humanistic: it is centered on people, developers and customers. iii) Discipline: Practices that we need to follow. iv) Software Development: Key point. We have to follow the mentality of sufficiency: How would you program if you have all the time in the world? i) write tests ii) reconstruct often iii) talk with fellow programmers and with the customers.
 Values:
 The 5 values of XP are communication, courage, respect, simplicity and feedback.
@@ -12,16 +12,20 @@ Incremental programming 2) small releases 3) simple design 4) Test first 5) Refa
 
 
 
-##2:Pair programming:
+# 2:Pair programming:
+
 Pair Programming means all production software is developed by two people sitting on the same machine. The idea behind this practice is that two brains and four eyes are better than one brain and two eyes. You effectively get a continuous code review and quicker response to nagging (constantly telling someone to do something) problems that may stop one person dead in their tracks.
 Teams that have used pair programming have found that it improves quality and does not take twice as long because they can work through problems quickly and they stay more focused on the task at hand, thereby creating less code to accomplish the same thing.
-3:Git Repository Guidelines in Agile Development:
+
+# 3:Git Repository Guidelines in Agile Development:
+
 In agile development, Git repositories play a crucial role in version control, collaboration, and continuous integration. Best practices include frequent commits, meaningful commit messages, pull requests, automated testing and deployment, code reviews, and issue tracking. Implement continuous integration by pushing small code changes to an application's Git repository, which allows teams to detect and fix issues earlier in the development process.
 
 ##4: Working in batches in Agile:
 Working in batches in Agile refers to breaking down work into small, manageable pieces. And completing work in chunks rather than working on a large project all at once. By working in branches agile team can focus their efforts on a specific task. This can help to improve the team's velocity and overall productivity, as well as lead to better quality work, as team members can focus on specific tasks and ensure they are completed to a high standard before moving on to the next set of tasks.
 
-##5:MVP(Minimum Viable Product):
+# 5:MVP(Minimum Viable Product):
+
 Origins:
 2009: The concept of MVP gained popularity after Eric Ries described it in his book The Lean Startup
 Definition:
@@ -31,7 +35,8 @@ The primary benefit of an MVP is you can gain an understanding about your custom
 Potential Costs:
 Proper use of an MVP means that a team may dramatically change a product that they deliver to their customers or abandon the product together based on feedback they receive from their customers. The minimum aspect of MVP encourages teams to do the least amount of work possible to useful feedback (Eric Ries refers to this as validated learning) which helps them avoid working on a product that no one wants.
 
-##6:TDD and BDD:
+## 6:TDD and BDD:
+
 Test-Driven Development (TDD) :
 Test Driven Development (TDD) is a development technique which focuses more on the implementation of a feature of a software application/product. Mainly it refers to writing a test case that fails because the specified functionality doesn't exist and after that updating the code that can make the test case pass and as a result, we get the feature implemented in the system. It is a development practice in which the developers are involved in it.
 Process of TDD :
@@ -68,12 +73,15 @@ Differences:
   ix)BDD's main focus is on system requirements and TDD's main focus is on the unit test.
   x)Some of the tools used for BDD are Cucumber, Dave, JBehave, Spec Flow, Concordia, BeanSpec etc. Some of the tools used are JBehave, JDave, Cucumber, Spec Flow, BeanSpec, FitNesse etc.
 
-##7: Cloud Native Microservices:
+# 7: Cloud Native Microservices:
+
 Microservices refers to dividing applications into smaller and loosely coupled units. Microservices are a core component of cloud-native computing. Cloud-native microservices are an architectural approach to building modern, cloud-native applications composed of small, independently deployable services that are loosely coupled and interact through a shared fabric.
 Cloud-native applications are designed to run on cloud infrastructure, and they leverage cloud services such as containers, Kubernetes, and serverless computing to provide greater agility, scalability, and reliability.
 
-##8:Designing for Failure in DevOps:
+# 8:Designing for Failure in DevOps:
+
 We must design for failure. We must embrace failure. We must change our thinking, from moving from how to avoid failure to how to identify failure when it happens, and what to do to recover from it. Designing for failure is a critical aspect of DevOps. According to the DevOps philosophy, we must embrace failure, design for failure, identify failure when it happens, and take steps to recover from it.
 
-##9:Taylorism:
+# 9:Taylorism:
+
 In the context of DevOps, Taylorism has been criticized for its focus on standardization and division of labour, which can lead to working in silos(Working in silos describes a situation when individuals and teams are working on the same objective but don't communicate enough), bottlenecks, and delays. Working in silos can also result in mistakes that can be costly to correct. DevOps, on the other hand, emphasizes collaboration, continuous feedback, and embracing change to push small releases faster, minimize risks, and maximize learning.
